@@ -1,0 +1,1321 @@
+{
+  "time_codes": [
+    {
+      "number": 1,
+      "start_time": "1.63",
+      "stop_time": "5.12",
+      "text": "Hi, in regards to Burger King I do eat in Burger King."
+    },
+    {
+      "number": 2,
+      "start_time": "5.12",
+      "stop_time": "8.16",
+      "text": "Tends to be at lunchtime when I'm by myself or taking my children there."
+    },
+    {
+      "number": 3,
+      "start_time": "8.73",
+      "stop_time": "15.22",
+      "text": "The only reason I eat there is because I think their Super king of the day, their King of the day deals, are quite now relatively cheap."
+    },
+    {
+      "number": 4,
+      "start_time": "15.56",
+      "stop_time": "17.85",
+      "text": "It used to be quite expensive I think for Buger King."
+    },
+    {
+      "number": 5,
+      "start_time": "17.85",
+      "stop_time": "21.61",
+      "text": "You'd pay probably about 6 pound 49 for a meal if you wanted a burger, chips and a drink."
+    },
+    {
+      "number": 6,
+      "start_time": "21.61",
+      "stop_time": "23.34",
+      "text": "And for me that's just too expensive."
+    },
+    {
+      "number": 7,
+      "start_time": "23.77",
+      "stop_time": "27.42",
+      "text": "But 3 pound 69 for a king of the day is actually a good deal."
+    },
+    {
+      "number": 8,
+      "start_time": "27.95",
+      "stop_time": "30.96",
+      "text": "I do like it now that they are giving away more vouchers."
+    },
+    {
+      "number": 9,
+      "start_time": "31.0",
+      "stop_time": "37.1",
+      "text": "It's nice to see every couple of months you can go on your voucher apps and you can usually print off a sheet of Burger King vouchers."
+    },
+    {
+      "number": 10,
+      "start_time": "37.45",
+      "stop_time": "42.46",
+      "text": "And I do take advantage of those, cause again, you either get one burger free or it does make it slightly cheaper."
+    },
+    {
+      "number": 11,
+      "start_time": "43.1",
+      "stop_time": "48.57",
+      "text": "I don't think their menu is as vast as other burger joints."
+    },
+    {
+      "number": 12,
+      "start_time": "48.89",
+      "stop_time": "54.74",
+      "text": "And it can be still quite relatively expensive if you were to buy a burger that wasn't on sort of a meal deal."
+    },
+    {
+      "number": 13,
+      "start_time": "55.11",
+      "stop_time": "56.36",
+      "text": "OK then, many thanks, bye."
+    }
+  ],
+  "word_time_codes": [
+    {
+      "number": 1,
+      "start_time": "1.63",
+      "stop_time": "1.94",
+      "text": "Hi,"
+    },
+    {
+      "number": 2,
+      "start_time": "2.32",
+      "stop_time": "2.46",
+      "text": "in"
+    },
+    {
+      "number": 3,
+      "start_time": "2.46",
+      "stop_time": "2.74",
+      "text": "regards"
+    },
+    {
+      "number": 4,
+      "start_time": "2.74",
+      "stop_time": "2.81",
+      "text": "to"
+    },
+    {
+      "number": 5,
+      "start_time": "2.81",
+      "stop_time": "3.14",
+      "text": "Burger"
+    },
+    {
+      "number": 6,
+      "start_time": "3.14",
+      "stop_time": "3.53",
+      "text": "King"
+    },
+    {
+      "number": 7,
+      "start_time": "3.84",
+      "stop_time": "3.94",
+      "text": "I"
+    },
+    {
+      "number": 8,
+      "start_time": "3.94",
+      "stop_time": "4.08",
+      "text": "do"
+    },
+    {
+      "number": 9,
+      "start_time": "4.08",
+      "stop_time": "4.5",
+      "text": "eat"
+    },
+    {
+      "number": 10,
+      "start_time": "4.5",
+      "stop_time": "4.57",
+      "text": "in"
+    },
+    {
+      "number": 11,
+      "start_time": "4.57",
+      "stop_time": "4.83",
+      "text": "Burger"
+    },
+    {
+      "number": 12,
+      "start_time": "4.83",
+      "stop_time": "5.12",
+      "text": "King."
+    },
+    {
+      "number": 13,
+      "start_time": "5.12",
+      "stop_time": "5.45",
+      "text": "Tends"
+    },
+    {
+      "number": 14,
+      "start_time": "5.45",
+      "stop_time": "5.51",
+      "text": "to"
+    },
+    {
+      "number": 15,
+      "start_time": "5.51",
+      "stop_time": "5.63",
+      "text": "be"
+    },
+    {
+      "number": 16,
+      "start_time": "5.63",
+      "stop_time": "5.69",
+      "text": "at"
+    },
+    {
+      "number": 17,
+      "start_time": "5.69",
+      "stop_time": "6.16",
+      "text": "lunchtime"
+    },
+    {
+      "number": 18,
+      "start_time": "6.16",
+      "stop_time": "6.25",
+      "text": "when"
+    },
+    {
+      "number": 19,
+      "start_time": "6.25",
+      "stop_time": "6.31",
+      "text": "I'm"
+    },
+    {
+      "number": 20,
+      "start_time": "6.31",
+      "stop_time": "6.42",
+      "text": "by"
+    },
+    {
+      "number": 21,
+      "start_time": "6.42",
+      "stop_time": "6.94",
+      "text": "myself"
+    },
+    {
+      "number": 22,
+      "start_time": "7.09",
+      "stop_time": "7.15",
+      "text": "or"
+    },
+    {
+      "number": 23,
+      "start_time": "7.15",
+      "stop_time": "7.46",
+      "text": "taking"
+    },
+    {
+      "number": 24,
+      "start_time": "7.46",
+      "stop_time": "7.55",
+      "text": "my"
+    },
+    {
+      "number": 25,
+      "start_time": "7.55",
+      "stop_time": "8.02",
+      "text": "children"
+    },
+    {
+      "number": 26,
+      "start_time": "8.02",
+      "stop_time": "8.16",
+      "text": "there."
+    },
+    {
+      "number": 27,
+      "start_time": "8.73",
+      "stop_time": "8.82",
+      "text": "The"
+    },
+    {
+      "number": 28,
+      "start_time": "8.82",
+      "stop_time": "8.97",
+      "text": "only"
+    },
+    {
+      "number": 29,
+      "start_time": "8.97",
+      "stop_time": "9.23",
+      "text": "reason"
+    },
+    {
+      "number": 30,
+      "start_time": "9.23",
+      "stop_time": "9.34",
+      "text": "I"
+    },
+    {
+      "number": 31,
+      "start_time": "9.34",
+      "stop_time": "9.54",
+      "text": "eat"
+    },
+    {
+      "number": 32,
+      "start_time": "9.54",
+      "stop_time": "9.66",
+      "text": "there"
+    },
+    {
+      "number": 33,
+      "start_time": "9.87",
+      "stop_time": "9.97",
+      "text": "is"
+    },
+    {
+      "number": 34,
+      "start_time": "9.97",
+      "stop_time": "10.18",
+      "text": "because"
+    },
+    {
+      "number": 35,
+      "start_time": "10.18",
+      "stop_time": "10.26",
+      "text": "I"
+    },
+    {
+      "number": 36,
+      "start_time": "10.26",
+      "stop_time": "10.59",
+      "text": "think"
+    },
+    {
+      "number": 37,
+      "start_time": "10.59",
+      "stop_time": "10.76",
+      "text": "their"
+    },
+    {
+      "number": 38,
+      "start_time": "10.76",
+      "stop_time": "11.12",
+      "text": "Super"
+    },
+    {
+      "number": 39,
+      "start_time": "11.12",
+      "stop_time": "11.52",
+      "text": "king"
+    },
+    {
+      "number": 40,
+      "start_time": "11.56",
+      "stop_time": "11.63",
+      "text": "of"
+    },
+    {
+      "number": 41,
+      "start_time": "11.66",
+      "stop_time": "11.73",
+      "text": "the"
+    },
+    {
+      "number": 42,
+      "start_time": "11.73",
+      "stop_time": "12.03",
+      "text": "day,"
+    },
+    {
+      "number": 43,
+      "start_time": "12.03",
+      "stop_time": "12.19",
+      "text": "their"
+    },
+    {
+      "number": 44,
+      "start_time": "12.19",
+      "stop_time": "12.43",
+      "text": "King"
+    },
+    {
+      "number": 45,
+      "start_time": "12.43",
+      "stop_time": "12.5",
+      "text": "of"
+    },
+    {
+      "number": 46,
+      "start_time": "12.5",
+      "stop_time": "12.57",
+      "text": "the"
+    },
+    {
+      "number": 47,
+      "start_time": "12.57",
+      "stop_time": "12.79",
+      "text": "day"
+    },
+    {
+      "number": 48,
+      "start_time": "12.79",
+      "stop_time": "13.32",
+      "text": "deals,"
+    },
+    {
+      "number": 49,
+      "start_time": "13.63",
+      "stop_time": "13.86",
+      "text": "are"
+    },
+    {
+      "number": 50,
+      "start_time": "14.0",
+      "stop_time": "14.29",
+      "text": "quite"
+    },
+    {
+      "number": 51,
+      "start_time": "14.29",
+      "stop_time": "14.42",
+      "text": "now"
+    },
+    {
+      "number": 52,
+      "start_time": "14.42",
+      "stop_time": "14.85",
+      "text": "relatively"
+    },
+    {
+      "number": 53,
+      "start_time": "14.85",
+      "stop_time": "15.22",
+      "text": "cheap."
+    },
+    {
+      "number": 54,
+      "start_time": "15.56",
+      "stop_time": "15.63",
+      "text": "It"
+    },
+    {
+      "number": 55,
+      "start_time": "15.63",
+      "stop_time": "15.85",
+      "text": "used"
+    },
+    {
+      "number": 56,
+      "start_time": "15.85",
+      "stop_time": "15.95",
+      "text": "to"
+    },
+    {
+      "number": 57,
+      "start_time": "15.95",
+      "stop_time": "16.08",
+      "text": "be"
+    },
+    {
+      "number": 58,
+      "start_time": "16.08",
+      "stop_time": "16.34",
+      "text": "quite"
+    },
+    {
+      "number": 59,
+      "start_time": "16.34",
+      "stop_time": "16.87",
+      "text": "expensive"
+    },
+    {
+      "number": 60,
+      "start_time": "16.87",
+      "stop_time": "16.9",
+      "text": "I"
+    },
+    {
+      "number": 61,
+      "start_time": "16.9",
+      "stop_time": "17.18",
+      "text": "think"
+    },
+    {
+      "number": 62,
+      "start_time": "17.25",
+      "stop_time": "17.32",
+      "text": "for"
+    },
+    {
+      "number": 63,
+      "start_time": "17.32",
+      "stop_time": "17.5",
+      "text": "Buger"
+    },
+    {
+      "number": 64,
+      "start_time": "17.5",
+      "stop_time": "17.85",
+      "text": "King."
+    },
+    {
+      "number": 65,
+      "start_time": "17.85",
+      "stop_time": "18.04",
+      "text": "You'd"
+    },
+    {
+      "number": 66,
+      "start_time": "18.04",
+      "stop_time": "18.31",
+      "text": "pay"
+    },
+    {
+      "number": 67,
+      "start_time": "18.31",
+      "stop_time": "18.57",
+      "text": "probably"
+    },
+    {
+      "number": 68,
+      "start_time": "18.57",
+      "stop_time": "19.01",
+      "text": "about"
+    },
+    {
+      "number": 69,
+      "start_time": "19.16",
+      "stop_time": "19.2",
+      "text": "6"
+    },
+    {
+      "number": 70,
+      "start_time": "19.2",
+      "stop_time": "19.59",
+      "text": "pound"
+    },
+    {
+      "number": 71,
+      "start_time": "19.59",
+      "stop_time": "19.62",
+      "text": "49"
+    },
+    {
+      "number": 72,
+      "start_time": "19.62",
+      "stop_time": "19.72",
+      "text": "for"
+    },
+    {
+      "number": 73,
+      "start_time": "19.81",
+      "stop_time": "19.86",
+      "text": "a"
+    },
+    {
+      "number": 74,
+      "start_time": "19.86",
+      "stop_time": "20.2",
+      "text": "meal"
+    },
+    {
+      "number": 75,
+      "start_time": "20.2",
+      "stop_time": "20.27",
+      "text": "if"
+    },
+    {
+      "number": 76,
+      "start_time": "20.27",
+      "stop_time": "20.33",
+      "text": "you"
+    },
+    {
+      "number": 77,
+      "start_time": "20.33",
+      "stop_time": "20.54",
+      "text": "wanted"
+    },
+    {
+      "number": 78,
+      "start_time": "20.54",
+      "stop_time": "20.57",
+      "text": "a"
+    },
+    {
+      "number": 79,
+      "start_time": "20.57",
+      "stop_time": "20.9",
+      "text": "burger,"
+    },
+    {
+      "number": 80,
+      "start_time": "20.9",
+      "stop_time": "21.23",
+      "text": "chips"
+    },
+    {
+      "number": 81,
+      "start_time": "21.23",
+      "stop_time": "21.35",
+      "text": "and"
+    },
+    {
+      "number": 82,
+      "start_time": "21.35",
+      "stop_time": "21.38",
+      "text": "a"
+    },
+    {
+      "number": 83,
+      "start_time": "21.38",
+      "stop_time": "21.61",
+      "text": "drink."
+    },
+    {
+      "number": 84,
+      "start_time": "21.61",
+      "stop_time": "21.76",
+      "text": "And"
+    },
+    {
+      "number": 85,
+      "start_time": "21.76",
+      "stop_time": "21.87",
+      "text": "for"
+    },
+    {
+      "number": 86,
+      "start_time": "21.87",
+      "stop_time": "22.17",
+      "text": "me"
+    },
+    {
+      "number": 87,
+      "start_time": "22.17",
+      "stop_time": "22.37",
+      "text": "that's"
+    },
+    {
+      "number": 88,
+      "start_time": "22.37",
+      "stop_time": "22.59",
+      "text": "just"
+    },
+    {
+      "number": 89,
+      "start_time": "22.59",
+      "stop_time": "22.7",
+      "text": "too"
+    },
+    {
+      "number": 90,
+      "start_time": "22.7",
+      "stop_time": "23.34",
+      "text": "expensive."
+    },
+    {
+      "number": 91,
+      "start_time": "23.77",
+      "stop_time": "24.13",
+      "text": "But"
+    },
+    {
+      "number": 92,
+      "start_time": "24.13",
+      "stop_time": "24.16",
+      "text": "3"
+    },
+    {
+      "number": 93,
+      "start_time": "24.2",
+      "stop_time": "24.59",
+      "text": "pound"
+    },
+    {
+      "number": 94,
+      "start_time": "25.03",
+      "stop_time": "25.06",
+      "text": "69"
+    },
+    {
+      "number": 95,
+      "start_time": "25.13",
+      "stop_time": "25.27",
+      "text": "for"
+    },
+    {
+      "number": 96,
+      "start_time": "25.27",
+      "stop_time": "25.3",
+      "text": "a"
+    },
+    {
+      "number": 97,
+      "start_time": "25.3",
+      "stop_time": "25.51",
+      "text": "king"
+    },
+    {
+      "number": 98,
+      "start_time": "25.51",
+      "stop_time": "25.6",
+      "text": "of"
+    },
+    {
+      "number": 99,
+      "start_time": "25.6",
+      "stop_time": "25.66",
+      "text": "the"
+    },
+    {
+      "number": 100,
+      "start_time": "25.66",
+      "stop_time": "26.04",
+      "text": "day"
+    },
+    {
+      "number": 101,
+      "start_time": "26.39",
+      "stop_time": "26.58",
+      "text": "is"
+    },
+    {
+      "number": 102,
+      "start_time": "26.58",
+      "stop_time": "26.88",
+      "text": "actually"
+    },
+    {
+      "number": 103,
+      "start_time": "26.88",
+      "stop_time": "26.91",
+      "text": "a"
+    },
+    {
+      "number": 104,
+      "start_time": "26.91",
+      "stop_time": "27.08",
+      "text": "good"
+    },
+    {
+      "number": 105,
+      "start_time": "27.08",
+      "stop_time": "27.42",
+      "text": "deal."
+    },
+    {
+      "number": 106,
+      "start_time": "27.95",
+      "stop_time": "28.12",
+      "text": "I"
+    },
+    {
+      "number": 107,
+      "start_time": "28.35",
+      "stop_time": "28.61",
+      "text": "do"
+    },
+    {
+      "number": 108,
+      "start_time": "28.61",
+      "stop_time": "28.87",
+      "text": "like"
+    },
+    {
+      "number": 109,
+      "start_time": "28.87",
+      "stop_time": "28.97",
+      "text": "it"
+    },
+    {
+      "number": 110,
+      "start_time": "28.97",
+      "stop_time": "29.19",
+      "text": "now"
+    },
+    {
+      "number": 111,
+      "start_time": "29.19",
+      "stop_time": "29.3",
+      "text": "that"
+    },
+    {
+      "number": 112,
+      "start_time": "29.3",
+      "stop_time": "29.47",
+      "text": "they"
+    },
+    {
+      "number": 113,
+      "start_time": "29.47",
+      "stop_time": "29.61",
+      "text": "are"
+    },
+    {
+      "number": 114,
+      "start_time": "29.61",
+      "stop_time": "29.81",
+      "text": "giving"
+    },
+    {
+      "number": 115,
+      "start_time": "29.81",
+      "stop_time": "29.96",
+      "text": "away"
+    },
+    {
+      "number": 116,
+      "start_time": "29.96",
+      "stop_time": "30.15",
+      "text": "more"
+    },
+    {
+      "number": 117,
+      "start_time": "30.15",
+      "stop_time": "30.96",
+      "text": "vouchers."
+    },
+    {
+      "number": 118,
+      "start_time": "31.0",
+      "stop_time": "31.21",
+      "text": "It's"
+    },
+    {
+      "number": 119,
+      "start_time": "31.21",
+      "stop_time": "31.47",
+      "text": "nice"
+    },
+    {
+      "number": 120,
+      "start_time": "31.47",
+      "stop_time": "31.6",
+      "text": "to"
+    },
+    {
+      "number": 121,
+      "start_time": "31.74",
+      "stop_time": "31.95",
+      "text": "see"
+    },
+    {
+      "number": 122,
+      "start_time": "31.95",
+      "stop_time": "32.1",
+      "text": "every"
+    },
+    {
+      "number": 123,
+      "start_time": "32.1",
+      "stop_time": "32.38",
+      "text": "couple"
+    },
+    {
+      "number": 124,
+      "start_time": "32.38",
+      "stop_time": "32.44",
+      "text": "of"
+    },
+    {
+      "number": 125,
+      "start_time": "32.44",
+      "stop_time": "32.75",
+      "text": "months"
+    },
+    {
+      "number": 126,
+      "start_time": "32.75",
+      "stop_time": "32.82",
+      "text": "you"
+    },
+    {
+      "number": 127,
+      "start_time": "32.82",
+      "stop_time": "32.93",
+      "text": "can"
+    },
+    {
+      "number": 128,
+      "start_time": "32.93",
+      "stop_time": "33.07",
+      "text": "go"
+    },
+    {
+      "number": 129,
+      "start_time": "33.07",
+      "stop_time": "33.21",
+      "text": "on"
+    },
+    {
+      "number": 130,
+      "start_time": "33.21",
+      "stop_time": "33.31",
+      "text": "your"
+    },
+    {
+      "number": 131,
+      "start_time": "33.31",
+      "stop_time": "33.72",
+      "text": "voucher"
+    },
+    {
+      "number": 132,
+      "start_time": "33.72",
+      "stop_time": "34.05",
+      "text": "apps"
+    },
+    {
+      "number": 133,
+      "start_time": "34.05",
+      "stop_time": "34.14",
+      "text": "and"
+    },
+    {
+      "number": 134,
+      "start_time": "34.14",
+      "stop_time": "34.2",
+      "text": "you"
+    },
+    {
+      "number": 135,
+      "start_time": "34.2",
+      "stop_time": "34.31",
+      "text": "can"
+    },
+    {
+      "number": 136,
+      "start_time": "34.31",
+      "stop_time": "34.52",
+      "text": "usually"
+    },
+    {
+      "number": 137,
+      "start_time": "34.52",
+      "stop_time": "34.74",
+      "text": "print"
+    },
+    {
+      "number": 138,
+      "start_time": "34.74",
+      "stop_time": "34.98",
+      "text": "off"
+    },
+    {
+      "number": 139,
+      "start_time": "34.98",
+      "stop_time": "35.01",
+      "text": "a"
+    },
+    {
+      "number": 140,
+      "start_time": "35.01",
+      "stop_time": "35.51",
+      "text": "sheet"
+    },
+    {
+      "number": 141,
+      "start_time": "35.65",
+      "stop_time": "35.71",
+      "text": "of"
+    },
+    {
+      "number": 142,
+      "start_time": "35.76",
+      "stop_time": "36.0",
+      "text": "Burger"
+    },
+    {
+      "number": 143,
+      "start_time": "36.0",
+      "stop_time": "36.3",
+      "text": "King"
+    },
+    {
+      "number": 144,
+      "start_time": "36.48",
+      "stop_time": "37.1",
+      "text": "vouchers."
+    },
+    {
+      "number": 145,
+      "start_time": "37.45",
+      "stop_time": "37.54",
+      "text": "And"
+    },
+    {
+      "number": 146,
+      "start_time": "37.54",
+      "stop_time": "37.58",
+      "text": "I"
+    },
+    {
+      "number": 147,
+      "start_time": "37.58",
+      "stop_time": "37.75",
+      "text": "do"
+    },
+    {
+      "number": 148,
+      "start_time": "37.75",
+      "stop_time": "38.02",
+      "text": "take"
+    },
+    {
+      "number": 149,
+      "start_time": "38.02",
+      "stop_time": "38.41",
+      "text": "advantage"
+    },
+    {
+      "number": 150,
+      "start_time": "38.41",
+      "stop_time": "38.47",
+      "text": "of"
+    },
+    {
+      "number": 151,
+      "start_time": "38.5",
+      "stop_time": "38.88",
+      "text": "those,"
+    },
+    {
+      "number": 152,
+      "start_time": "38.88",
+      "stop_time": "39.0",
+      "text": "cause"
+    },
+    {
+      "number": 153,
+      "start_time": "39.0",
+      "stop_time": "39.39",
+      "text": "again,"
+    },
+    {
+      "number": 154,
+      "start_time": "39.39",
+      "stop_time": "39.51",
+      "text": "you"
+    },
+    {
+      "number": 155,
+      "start_time": "39.51",
+      "stop_time": "39.67",
+      "text": "either"
+    },
+    {
+      "number": 156,
+      "start_time": "39.67",
+      "stop_time": "39.84",
+      "text": "get"
+    },
+    {
+      "number": 157,
+      "start_time": "39.84",
+      "stop_time": "40.08",
+      "text": "one"
+    },
+    {
+      "number": 158,
+      "start_time": "40.08",
+      "stop_time": "40.32",
+      "text": "burger"
+    },
+    {
+      "number": 159,
+      "start_time": "40.32",
+      "stop_time": "40.69",
+      "text": "free"
+    },
+    {
+      "number": 160,
+      "start_time": "41.01",
+      "stop_time": "41.14",
+      "text": "or"
+    },
+    {
+      "number": 161,
+      "start_time": "41.14",
+      "stop_time": "41.2",
+      "text": "it"
+    },
+    {
+      "number": 162,
+      "start_time": "41.2",
+      "stop_time": "41.43",
+      "text": "does"
+    },
+    {
+      "number": 163,
+      "start_time": "41.43",
+      "stop_time": "41.66",
+      "text": "make"
+    },
+    {
+      "number": 164,
+      "start_time": "41.66",
+      "stop_time": "41.73",
+      "text": "it"
+    },
+    {
+      "number": 165,
+      "start_time": "41.73",
+      "stop_time": "42.05",
+      "text": "slightly"
+    },
+    {
+      "number": 166,
+      "start_time": "42.05",
+      "stop_time": "42.46",
+      "text": "cheaper."
+    },
+    {
+      "number": 167,
+      "start_time": "43.1",
+      "stop_time": "43.17",
+      "text": "I"
+    },
+    {
+      "number": 168,
+      "start_time": "43.46",
+      "stop_time": "43.68",
+      "text": "don't"
+    },
+    {
+      "number": 169,
+      "start_time": "43.72",
+      "stop_time": "43.98",
+      "text": "think"
+    },
+    {
+      "number": 170,
+      "start_time": "43.98",
+      "stop_time": "44.17",
+      "text": "their"
+    },
+    {
+      "number": 171,
+      "start_time": "44.17",
+      "stop_time": "44.65",
+      "text": "menu"
+    },
+    {
+      "number": 172,
+      "start_time": "44.73",
+      "stop_time": "45.14",
+      "text": "is"
+    },
+    {
+      "number": 173,
+      "start_time": "45.14",
+      "stop_time": "45.32",
+      "text": "as"
+    },
+    {
+      "number": 174,
+      "start_time": "45.48",
+      "stop_time": "45.82",
+      "text": "vast"
+    },
+    {
+      "number": 175,
+      "start_time": "46.58",
+      "stop_time": "47.0",
+      "text": "as"
+    },
+    {
+      "number": 176,
+      "start_time": "47.12",
+      "stop_time": "47.33",
+      "text": "other"
+    },
+    {
+      "number": 177,
+      "start_time": "47.7",
+      "stop_time": "48.05",
+      "text": "burger"
+    },
+    {
+      "number": 178,
+      "start_time": "48.05",
+      "stop_time": "48.57",
+      "text": "joints."
+    },
+    {
+      "number": 179,
+      "start_time": "48.89",
+      "stop_time": "49.26",
+      "text": "And"
+    },
+    {
+      "number": 180,
+      "start_time": "49.3",
+      "stop_time": "49.46",
+      "text": "it"
+    },
+    {
+      "number": 181,
+      "start_time": "49.46",
+      "stop_time": "49.78",
+      "text": "can"
+    },
+    {
+      "number": 182,
+      "start_time": "49.78",
+      "stop_time": "49.98",
+      "text": "be"
+    },
+    {
+      "number": 183,
+      "start_time": "49.98",
+      "stop_time": "50.31",
+      "text": "still"
+    },
+    {
+      "number": 184,
+      "start_time": "50.31",
+      "stop_time": "50.52",
+      "text": "quite"
+    },
+    {
+      "number": 185,
+      "start_time": "50.52",
+      "stop_time": "50.94",
+      "text": "relatively"
+    },
+    {
+      "number": 186,
+      "start_time": "50.94",
+      "stop_time": "51.58",
+      "text": "expensive"
+    },
+    {
+      "number": 187,
+      "start_time": "51.58",
+      "stop_time": "51.75",
+      "text": "if"
+    },
+    {
+      "number": 188,
+      "start_time": "51.83",
+      "stop_time": "52.01",
+      "text": "you"
+    },
+    {
+      "number": 189,
+      "start_time": "52.01",
+      "stop_time": "52.08",
+      "text": "were"
+    },
+    {
+      "number": 190,
+      "start_time": "52.08",
+      "stop_time": "52.2",
+      "text": "to"
+    },
+    {
+      "number": 191,
+      "start_time": "52.2",
+      "stop_time": "52.49",
+      "text": "buy"
+    },
+    {
+      "number": 192,
+      "start_time": "52.53",
+      "stop_time": "52.56",
+      "text": "a"
+    },
+    {
+      "number": 193,
+      "start_time": "52.56",
+      "stop_time": "52.92",
+      "text": "burger"
+    },
+    {
+      "number": 194,
+      "start_time": "52.92",
+      "stop_time": "53.12",
+      "text": "that"
+    },
+    {
+      "number": 195,
+      "start_time": "53.12",
+      "stop_time": "53.42",
+      "text": "wasn't"
+    },
+    {
+      "number": 196,
+      "start_time": "53.42",
+      "stop_time": "53.6",
+      "text": "on"
+    },
+    {
+      "number": 197,
+      "start_time": "53.81",
+      "stop_time": "54.04",
+      "text": "sort"
+    },
+    {
+      "number": 198,
+      "start_time": "54.04",
+      "stop_time": "54.11",
+      "text": "of"
+    },
+    {
+      "number": 199,
+      "start_time": "54.11",
+      "stop_time": "54.14",
+      "text": "a"
+    },
+    {
+      "number": 200,
+      "start_time": "54.14",
+      "stop_time": "54.44",
+      "text": "meal"
+    },
+    {
+      "number": 201,
+      "start_time": "54.44",
+      "stop_time": "54.74",
+      "text": "deal."
+    },
+    {
+      "number": 202,
+      "start_time": "55.11",
+      "stop_time": "55.32",
+      "text": "OK"
+    },
+    {
+      "number": 203,
+      "start_time": "55.32",
+      "stop_time": "55.49",
+      "text": "then,"
+    },
+    {
+      "number": 204,
+      "start_time": "55.54",
+      "stop_time": "55.73",
+      "text": "many"
+    },
+    {
+      "number": 205,
+      "start_time": "55.73",
+      "stop_time": "56.11",
+      "text": "thanks,"
+    },
+    {
+      "number": 206,
+      "start_time": "56.11",
+      "stop_time": "56.36",
+      "text": "bye."
+    }
+  ],
+  "translation": "Hallo, in Bezug auf Burger King esse ich Burger King. Neigt dazu, zur Mittagszeit zu sein, wenn ich allein bin oder meine Kinder dorthin bringe. Der einzige Grund, warum ich dort esse, ist, dass ich denke, dass ihr Superkönig des Tages, der König des Tages, recht günstig ist. Für Buger King war das früher ziemlich teuer. Sie würden wahrscheinlich 6 Pfund 49 für eine Mahlzeit bezahlen, wenn Sie einen Burger, Chips und ein Getränk wollten. Und für mich ist das einfach zu teuer. Aber 3 Pfund 69 für einen König des Tages ist eigentlich ein guter Deal. Ich mag es jetzt, dass sie mehr Gutscheine verschenken. Es ist schön zu sehen, dass Sie alle paar Monate Ihre Gutschein-Apps nutzen können und Sie können normalerweise ein Blatt Burger-Gutscheine ausdrucken. Und ich nehme die Vorteile in Anspruch, weil Sie entweder einen Burger frei bekommen oder es etwas billiger macht. Ich glaube nicht, dass das Menü so groß ist wie bei anderen Burger-Fischen. Und es kann immer noch relativ teuer sein, wenn Sie einen Burger kaufen würden, der sich nicht mit einem Essensangebot befasste. OK, vielen Dank, auf Wiedersehen."
+}
