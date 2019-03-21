@@ -40,7 +40,11 @@ class TranslationProcessor {
 
     public function toJson()
     {
-        return json_encode($this->timeCodes);
+        return html_entity_decode(
+            json_encode(
+                $this->timeCodes
+            )
+        );
     }
 
     public function toArray()
@@ -61,7 +65,11 @@ class TranslationProcessor {
     private function getDecodedJsonFileContents()
     {
         return  json_decode(
-            file_get_contents($this->jsonfile),
+                    htmlentities
+                    (
+                        file_get_contents($this->jsonfile),
+                        ENT_NOQUOTES
+                    ),
             true
         );
 
