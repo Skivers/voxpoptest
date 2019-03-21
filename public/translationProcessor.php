@@ -33,7 +33,7 @@ class TranslationProcessor {
 
         foreach($this->timeCodes as $key =>  &$timeCodes)
         {
-            $timeCodes['tranlation'] = $translationArray[$key];
+            $timeCodes['translation'] = $translationArray[$key];
         }
         
     }
@@ -41,6 +41,11 @@ class TranslationProcessor {
     public function toJson()
     {
         return json_encode($this->timeCodes);
+    }
+
+    public function toArray()
+    {
+        return $this->timeCodes;
     }
 
     private function getTranslationArray(): array
